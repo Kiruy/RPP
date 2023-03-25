@@ -1,0 +1,33 @@
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.exe.config
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.exe
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.pdb
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\Ship.csproj.AssemblyReference.cache
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\Ship.csproj.SuggestedBindingRedirects.cache
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.Properties.Resources.resources
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\Ship.csproj.GenerateResource.cache
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\Ship.csproj.CoreCompileInputs.cache
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.exe
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.pdb
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\Ship.FormShip.resources
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\Ship\bin\Debug\WindowsFormsPlane.exe.config
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\Ship\bin\Debug\WindowsFormsPlane.exe
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\Ship\bin\Debug\WindowsFormsPlane.pdb
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\Ship\obj\Debug\Ship.csproj.AssemblyReference.cache
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\Ship\obj\Debug\Ship.csproj.SuggestedBindingRedirects.cache
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\Ship\obj\Debug\Ship.FormShip.resources
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\Ship\obj\Debug\WindowsFormsPlane.Properties.Resources.resources
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\Ship\obj\Debug\Ship.csproj.GenerateResource.cache
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\Ship\obj\Debug\Ship.csproj.CoreCompileInputs.cache
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\Ship\obj\Debug\WindowsFormsPlane.exe
+C:\Users\alcht\Desktop\1\Лаб1\WindowsFormsPlane\Ship\obj\Debug\WindowsFormsPlane.pdb
+C:\Users\alcht\Desktop\Лабы РПП\Лаб1\Ship\Ship\obj\Debug\Ship.csproj.AssemblyReference.cache
+C:\Users\alcht\Desktop\Лабы РПП\Лаб1\Ship\Ship\obj\Debug\Ship.csproj.SuggestedBindingRedirects.cache
+C:\Users\alcht\Desktop\Лабы РПП\Лаб1\Ship\Ship\obj\Debug\Ship.FormShip.resources
+C:\Users\alcht\Desktop\Лабы РПП\Лаб1\Ship\Ship\obj\Debug\Ship.Properties.Resources.resources
+C:\Users\alcht\Desktop\Лабы РПП\Лаб1\Ship\Ship\obj\Debug\Ship.csproj.GenerateResource.cache
+C:\Users\alcht\Desktop\Лабы РПП\Лаб1\Ship\Ship\obj\Debug\Ship.csproj.CoreCompileInputs.cache
+C:\Users\alcht\Desktop\Лабы РПП\Лаб1\Ship\Ship\bin\Debug\Ship.exe.config
+C:\Users\alcht\Desktop\Лабы РПП\Лаб1\Ship\Ship\bin\Debug\Ship.exe
+C:\Users\alcht\Desktop\Лабы РПП\Лаб1\Ship\Ship\bin\Debug\Ship.pdb
+C:\Users\alcht\Desktop\Лабы РПП\Лаб1\Ship\Ship\obj\Debug\Ship.exe
+C:\Users\alcht\Desktop\Лабы РПП\Лаб1\Ship\Ship\obj\Debug\Ship.pdb
