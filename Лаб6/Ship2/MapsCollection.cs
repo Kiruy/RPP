@@ -145,10 +145,10 @@ namespace Ship2
                 AbstractMap map = null;
                 switch (elem[1])
                 {
-                    case "Ангар":
+                    case "Доки":
                         map = new Docks();
                         break;
-                    case "Ангар2":
+                    case "Доки 2":
                         map = new Docks_2();
                         break;
                 }
