@@ -1,0 +1,4 @@
+MapsCollection
+123|Hangar|30:30:Red;30:30:Indigo:Orange:True:True;
+1234|Hangar|30:30:Black:Orange:True:False;
+12345|Hangar2|30:30:Blue;30:30:Lime:Black:False:True;
