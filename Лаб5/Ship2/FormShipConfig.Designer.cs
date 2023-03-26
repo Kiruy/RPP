@@ -312,7 +312,7 @@
             this.labelWeightPlane.Name = "labelWeightPlane";
             this.labelWeightPlane.Size = new System.Drawing.Size(78, 13);
             this.labelWeightPlane.TabIndex = 1;
-            this.labelWeightPlane.Text = "Вес самолета";
+            this.labelWeightPlane.Text = "Вес корабля";
             // 
             // labelMaxSpeed
             // 
