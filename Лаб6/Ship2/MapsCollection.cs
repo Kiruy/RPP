@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -83,11 +83,11 @@ namespace Ship2
         /// </summary>
         /// <param name="text">Строка, которую следует записать</param>
         /// <param name="stream">Поток для записи</param>
-        private static void WriteToFile(string text, FileStream stream)
+        /*private static void WriteToFile(string text, FileStream stream)
         {
             byte[] info = new UTF8Encoding(true).GetBytes(text);
             stream.Write(info, 0, info.Length);
-        }
+        }*/
         /// <summary>
         /// Сохранение информации по автомобилям в хранилище в файл
         /// </summary>
@@ -99,13 +99,13 @@ namespace Ship2
             {
                 File.Delete(filename);
             }
-            using (FileStream fs = new FileStream(filename, FileMode.Create))
+            using (StreamWriter writer = new StreamWriter(filename, true))
             {
-                WriteToFile($"MapsCollection{Environment.NewLine}", fs);
+                writer.Write($"MapsCollection{Environment.NewLine}");
                 foreach (var storage in _mapStorages)
                 {
 
-                    WriteToFile($"{storage.Key}{separatorDict}{storage.Value.GetData(separatorDict, separatorData)}{Environment.NewLine}", fs);
+                    writer.Write($"{storage.Key}{separatorDict}{storage.Value.GetData(separatorDict, separatorData)}{Environment.NewLine}");
                 }
             }
             return true;
@@ -122,16 +122,14 @@ namespace Ship2
                 return false;
             }
             string bufferTextFromFile = "";
-            using (FileStream fs = new FileStream(filename, FileMode.Open))
+            List<string> strs = new List<string>();
+            using (StreamReader reader = new StreamReader(filename))
             {
-                byte[] b = new byte[fs.Length];
-                UTF8Encoding temp = new UTF8Encoding(true);
-                while (fs.Read(b, 0, b.Length) > 0)
+                while ((bufferTextFromFile = reader.ReadLine()) != null)
                 {
-                    bufferTextFromFile += temp.GetString(b);
+                    strs.Add(bufferTextFromFile);
                 }
             }
-            var strs = bufferTextFromFile.Split(new char[] { '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
             if (!strs[0].Contains("MapsCollection"))
             {
                 //если нет такой записи, то это не те данные
@@ -139,7 +137,7 @@ namespace Ship2
             }
             //очищаем записи
             _mapStorages.Clear();
-            for (int i = 1; i < strs.Length; ++i)
+            for (int i = 1; i < strs.Count; ++i)
             {
                 var elem = strs[i].Split(separatorDict);
                 AbstractMap map = null;
@@ -152,7 +150,7 @@ namespace Ship2
                         map = new Docks_2();
                         break;
                 }
-                _mapStorages.Add(elem[0], new MapWithSetShipsGeneric<DrowingShip, AbstractMap>(_pictureWidth, _pictureHeight,map));
+                _mapStorages.Add(elem[0], new MapWithSetShipsGeneric<DrowingShip, AbstractMap>(_pictureWidth, _pictureHeight, map));
                 _mapStorages[elem[0]].LoadData(elem[2].Split(separatorData, (char)StringSplitOptions.RemoveEmptyEntries));
             }
             return true;
