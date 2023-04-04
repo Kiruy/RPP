@@ -1,0 +1,69 @@
+C:\Users\Пользователь\source\repos\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.exe.config
+C:\Users\Пользователь\source\repos\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.exe
+C:\Users\Пользователь\source\repos\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.pdb
+C:\Users\Пользователь\source\repos\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.FormPlane.resources
+C:\Users\Пользователь\source\repos\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.exe
+C:\Users\Пользователь\source\repos\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.pdb
+D:\Repos\ReposC#\appanov_vladislav_lab_1\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.exe.config
+D:\Repos\ReposC#\appanov_vladislav_lab_1\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.exe
+D:\Repos\ReposC#\appanov_vladislav_lab_1\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.pdb
+D:\Repos\ReposC#\appanov_vladislav_lab_1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csprojAssemblyReference.cache
+D:\Repos\ReposC#\appanov_vladislav_lab_1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.FormPlane.resources
+D:\Repos\ReposC#\appanov_vladislav_lab_1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.Properties.Resources.resources
+D:\Repos\ReposC#\appanov_vladislav_lab_1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.GenerateResource.cache
+D:\Repos\ReposC#\appanov_vladislav_lab_1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.CoreCompileInputs.cache
+D:\Repos\ReposC#\appanov_vladislav_lab_1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.exe
+D:\Repos\ReposC#\appanov_vladislav_lab_1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.pdb
+D:\PIbd-21-Appanov-V.S.-C-sharp-Lab_1\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.exe.config
+D:\PIbd-21-Appanov-V.S.-C-sharp-Lab_1\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.exe
+D:\PIbd-21-Appanov-V.S.-C-sharp-Lab_1\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.pdb
+D:\PIbd-21-Appanov-V.S.-C-sharp-Lab_1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csprojAssemblyReference.cache
+D:\PIbd-21-Appanov-V.S.-C-sharp-Lab_1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.FormPlane.resources
+D:\PIbd-21-Appanov-V.S.-C-sharp-Lab_1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.Properties.Resources.resources
+D:\PIbd-21-Appanov-V.S.-C-sharp-Lab_1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.GenerateResource.cache
+D:\PIbd-21-Appanov-V.S.-C-sharp-Lab_1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.CoreCompileInputs.cache
+D:\PIbd-21-Appanov-V.S.-C-sharp-Lab_1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.exe
+D:\PIbd-21-Appanov-V.S.-C-sharp-Lab_1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.pdb
+C:\Users\topku\Desktop\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csprojAssemblyReference.cache
+C:\Users\topku\Desktop\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.FormPlane.resources
+C:\Users\topku\Desktop\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.Properties.Resources.resources
+C:\Users\topku\Desktop\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.GenerateResource.cache
+C:\Users\topku\Desktop\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.CoreCompileInputs.cache
+C:\Users\topku\Desktop\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.exe
+C:\Users\topku\Desktop\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.pdb
+C:\Users\topku\Desktop\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.exe.config
+C:\Users\topku\Desktop\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.exe
+C:\Users\topku\Desktop\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.pdb
+D:\ЛАбы РПП\Лаб1\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.exe.config
+D:\ЛАбы РПП\Лаб1\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.exe
+D:\ЛАбы РПП\Лаб1\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.pdb
+D:\ЛАбы РПП\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csprojAssemblyReference.cache
+D:\ЛАбы РПП\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.FormPlane.resources
+D:\ЛАбы РПП\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.Properties.Resources.resources
+D:\ЛАбы РПП\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.GenerateResource.cache
+D:\ЛАбы РПП\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.CoreCompileInputs.cache
+D:\ЛАбы РПП\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.exe
+D:\ЛАбы РПП\Лаб1\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.pdb
+D:\ЛАбы РПП\Лаб2\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.exe.config
+D:\ЛАбы РПП\Лаб2\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.exe
+D:\ЛАбы РПП\Лаб2\WindowsFormsPlane\WindowsFormsPlane\bin\Debug\WindowsFormsPlane.pdb
+D:\ЛАбы РПП\Лаб2\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.FormPlane.resources
+D:\ЛАбы РПП\Лаб2\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.Properties.Resources.resources
+D:\ЛАбы РПП\Лаб2\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.GenerateResource.cache
+D:\ЛАбы РПП\Лаб2\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.CoreCompileInputs.cache
+D:\ЛАбы РПП\Лаб2\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.exe
+D:\ЛАбы РПП\Лаб2\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.pdb
+D:\ЛАбы РПП\Лаб2\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.AssemblyReference.cache
+D:\ЛАбы РПП\Лаб2\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.SuggestedBindingRedirects.cache
+D:\ЛАбы РПП\Лаб2\WindowsFormsPlane\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.FormMap.resources
+C:\Users\alcht\Desktop\Лабы РПП\Лаб2\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.AssemblyReference.cache
+C:\Users\alcht\Desktop\Лабы РПП\Лаб2\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.SuggestedBindingRedirects.cache
+C:\Users\alcht\Desktop\Лабы РПП\Лаб2\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.FormMap.resources
+C:\Users\alcht\Desktop\Лабы РПП\Лаб2\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.FormPlane.resources
+C:\Users\alcht\Desktop\Лабы РПП\Лаб2\WindowsFormsPlane\obj\Debug\Ship2.Properties.Resources.resources
+C:\Users\alcht\Desktop\Лабы РПП\Лаб2\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.GenerateResource.cache
+C:\Users\alcht\Desktop\Лабы РПП\Лаб2\WindowsFormsPlane\obj\Debug\WindowsFormsPlane.csproj.CoreCompileInputs.cache
