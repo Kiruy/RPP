@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Ship2
 {
-    internal class DrowingShip : IDrowingShip
+    internal class DrowingShip : IDrowingClassicShip
     {
         public DrowingClassicShip Ship_w;
 
@@ -41,6 +41,6 @@ namespace Ship2
             Ship_w?.SetPosition1(x, y, width, height);
         }
         public string GetInfo() => Ship_w?.GetDataForSave();
-        public static IDrowingShip Create(string data) => new DrowingShip(data.CreateDrawningShip());
+        public static IDrowingClassicShip Create(string data) => new DrowingShip(data.CreateDrawningShip());
     }
 }

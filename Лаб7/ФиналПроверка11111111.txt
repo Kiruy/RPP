@@ -1,0 +1,2 @@
+MapsCollection
+1|Docks|30:200:Red;30:200:Red;30:200:Red;30:200:Red;30:200:Red;30:200:Red;30:200:Red;30:200:Red;30:200:Red;30:200:Red;

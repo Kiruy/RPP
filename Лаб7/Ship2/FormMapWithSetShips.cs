@@ -119,11 +119,11 @@ namespace Ship2
         private void ButtonAddShip_Click(object sender, EventArgs e)
         {
             var formPlaneConfig = new FormShipConfig();
-            formPlaneConfig.AddEvent(AddPlane);
+            formPlaneConfig.AddEvent(AddShip);
             formPlaneConfig.Show();
             _logger.LogInformation($"Добавление объекта");
         }
-        private void AddPlane(DrowingClassicShip mpln)
+        private void AddShip(DrowingClassicShip mpln)
         {
             if (listBoxMaps.SelectedIndex == -1)
             {
@@ -145,12 +145,12 @@ namespace Ship2
             catch (StorageOverflowException ex)
             {
                 MessageBox.Show($"Ошибка добавления: {ex.Message}");
-                _logger.LogInformation($"Ошибка добавления {ex.Message}");
+                _logger.LogWarning($"Ошибка добавления {ex.Message}");
             }
             catch (Exception ex)
             {
                 MessageBox.Show($"Неизвестная ошибка: {ex.Message}");
-                _logger.LogInformation($"Ошибка добавления {ex.Message}");
+                _logger.LogWarning($"Ошибка добавления {ex.Message}");
             }
         }
         /// <summary>
@@ -187,15 +187,15 @@ namespace Ship2
                     MessageBox.Show("Не удалось удалить объект");
                 }
             }
-            catch (PlaneNotFoundException ex)
+            catch (ShipNotFoundException ex)
             {
                 MessageBox.Show($"Ошибка удаления: {ex.Message}");
-                _logger.LogInformation($"Ошибка удаления {ex.Message}");
+                _logger.LogWarning($"Ошибка удаления {ex.Message}");
             }
             catch (Exception ex)
             {
                 MessageBox.Show($"Неизвестная ошибка: {ex.Message}");
-                _logger.LogInformation($"Ошибка удаления {ex.Message}");
+                _logger.LogWarning($"Ошибка удаления {ex.Message}");
             }
         }
         /// <summary>
@@ -296,7 +296,7 @@ namespace Ship2
                 {
                     MessageBox.Show($"Не сохранилось: {ex.Message}", "Результат",
                    MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    _logger.LogInformation($"Файл {saveFileDialog.FileName} не сохранился: {ex.Message}");
+                    _logger.LogWarning($"Файл {saveFileDialog.FileName} не сохранился: {ex.Message}");
                 }
 
             }
@@ -318,7 +318,7 @@ namespace Ship2
                 catch (Exception ex)
                 {
                     MessageBox.Show("Не загрузили", "Результат", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    _logger.LogInformation($"Файл {saveFileDialog.FileName} не загрузился: {ex.Message}");
+                    _logger.LogWarning($"Файл {saveFileDialog.FileName} не загрузился: {ex.Message}");
                 }
             }
 

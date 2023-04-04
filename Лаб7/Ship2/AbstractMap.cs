@@ -10,7 +10,7 @@ namespace Ship2
 {
     internal abstract class AbstractMap
     {
-        private IDrowingShip _drowingShip = null;
+        private IDrowingClassicShip _drowingShip = null;
         protected int[,] _map = null;
         protected int _x;
         protected int _y;
@@ -22,7 +22,7 @@ namespace Ship2
         protected readonly int _freeRoad = 0;
         protected readonly int _barrier = 1;
 
-        public Bitmap CreateMap(int width, int height, IDrowingShip drowingShip)
+        public Bitmap CreateMap(int width, int height, IDrowingClassicShip drowingShip)
         {
             _width = width;
             _height = height;

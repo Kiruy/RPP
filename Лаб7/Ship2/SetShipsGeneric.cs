@@ -35,13 +35,7 @@ namespace Ship2
         /// <returns></returns>
         public bool Insert(T Ship)
         {
-            if (_maxCount >= Count)
-            {
-                _places.Add(Ship);
-                return true;
-            }
-
-            return false;
+            return Insert(Ship, 0);
         }
         /// <summary>
         /// Добавление объекта в набор на конкретную позицию
@@ -56,12 +50,16 @@ namespace Ship2
             // проверка, что после вставляемого элемента вмассиве есть пустой элемент
             // сдвиг всех объектов, находящихся справа от позиции до первого пустого элемента
             // TODO вставка по позиции
-            if (_maxCount < position)
+            if (_places.Contains(Ship))
             {
-                throw new StorageOverflowException(position);
-                return false;
+                throw new DocksAlreadyHaveException();
             }
-            _places[position] = Ship;
+
+            if (_maxCount < _places.Count)
+            {
+                throw new StorageOverflowException(_places.Count - 1);
+            }
+            _places.Insert(_places.Count, Ship);
             return true;
         }
         /// <summary>
@@ -75,13 +73,11 @@ namespace Ship2
             // TODO удаление объекта из массива, присовив элементу массива значение null
             if (_maxCount < position || position < -1)
             {
-                throw new PlaneNotFoundException(position);
-                return false;
+                throw new ShipNotFoundException(position);
             }
             if (_places[position] == null)
             {
-                throw new PlaneNotFoundException(position);
-                return false;
+                throw new ShipNotFoundException(position);
             }
             _places.RemoveAt(position);
             return true;

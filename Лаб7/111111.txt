@@ -1,0 +1,2 @@
+MapsCollection
+1|Docks|30:200:Lime;30:200:Blue;30:200:Blue;30:200:Blue:Black:False:False;30:200:Lime;30:200:Red;30:200:Black;30:200:Silver;30:200:Blue;30:200:Lime;

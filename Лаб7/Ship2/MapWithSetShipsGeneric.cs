@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Ship2
 {
     internal class MapWithSetShipsGeneric<T, U>
-        where T : class, IDrowingShip
+        where T : class, IDrowingClassicShip
         where U : AbstractMap
     {
         /// <summary>

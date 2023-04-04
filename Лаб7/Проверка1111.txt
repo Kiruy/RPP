@@ -1,0 +1,2 @@
+MapsCollection
+1|Docks|30:200:Lime;30:200:Blue:Black:False:False;30:200:Orange:Black:True:True;30:200:Orange:Black:True:True;30:200:Orange:Black:True:True;30:200:Orange:Black:True:True;30:200:Orange:Black:True:True;30:200:Orange:Black:True:True;30:200:Orange:Black:True:True;30:200:Orange:Black:True:True;

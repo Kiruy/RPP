@@ -8,7 +8,7 @@ using System.Collections;
 
 namespace Ship2
 {
-    internal interface IDrowingShip
+    internal interface IDrowingClassicShip
     {
         /// <summary>
         /// Шаг перемещения корабля
